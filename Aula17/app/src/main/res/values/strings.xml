@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClienteFinal</string>
+    <string name="buscar_cliente">Nome do cliente</string>
+    <string name="botao_buscar">Buscar</string>
+</resources>
